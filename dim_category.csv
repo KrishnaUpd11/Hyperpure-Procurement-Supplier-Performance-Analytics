@@ -1,0 +1,17 @@
+CategoryKey,CategoryName,CategoryGroup,SpendType,CategoryCode
+1,Steel & Metals,Raw Materials,Direct,CAT-001
+2,Plastics & Polymers,Raw Materials,Direct,CAT-002
+3,Electronic Components,Raw Materials,Direct,CAT-003
+4,Chemicals,Raw Materials,Direct,CAT-004
+5,Corrugated & Cartons,Packaging,Direct,CAT-005
+6,Labels & Printing,Packaging,Direct,CAT-006
+7,Industrial Equipment,MRO,Indirect,CAT-007
+8,Spare Parts,MRO,Indirect,CAT-008
+9,Safety Supplies,MRO,Indirect,CAT-009
+10,Freight & Transportation,Logistics,Indirect,CAT-010
+11,Warehousing Services,Logistics,Indirect,CAT-011
+12,Hardware,IT & Telecom,Indirect,CAT-012
+13,Software Licensing,IT & Telecom,Indirect,CAT-013
+14,Consulting,Professional Services,Indirect,CAT-014
+15,Facilities Management,Professional Services,Indirect,CAT-015
+16,Promotional Materials,Marketing,Indirect,CAT-016

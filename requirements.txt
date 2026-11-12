@@ -1,0 +1,13 @@
+# Data manipulation and numerical computing
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning and forecasting
+scikit-learn
+
+# Jupyter notebook support
+jupyter

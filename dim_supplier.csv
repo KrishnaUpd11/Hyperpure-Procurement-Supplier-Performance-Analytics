@@ -1,0 +1,61 @@
+SupplierKey,SupplierName,SupplierCode,SupplierTier,RegionKey,Country,OnboardDate,BaseReliabilityScore,BaseQualityScore,SupplierStatus
+1,Compass Inc.,SUP-0001,Preferred,9,Mexico,2023-05-27,0.99,0.9607,Active
+2,Meridian Supply Co.,SUP-0002,Preferred,9,Mexico,2018-09-16,0.691,0.968,Under Review
+3,Reliable Partners,SUP-0003,Approved,2,Canada,2020-03-14,0.7765,0.9288,Under Review
+4,Falcon Corp,SUP-0004,Preferred,7,India,2022-07-18,0.8573,0.9298,Active
+5,Anchor Inc.,SUP-0005,Transactional,3,Germany,2023-12-26,0.8175,0.9653,Active
+6,United Materials,SUP-0006,Approved,3,Germany,2023-03-18,0.8369,0.9334,Suspended
+7,Novus Partners,SUP-0007,Preferred,2,Canada,2024-04-16,0.9744,0.9571,Active
+8,Orbit Partners,SUP-0008,Strategic,3,Germany,2019-10-03,0.8115,0.9222,Under Review
+9,Reliable Solutions,SUP-0009,Approved,2,Canada,2024-11-15,0.8289,0.9915,Suspended
+10,Highland Manufacturing,SUP-0010,Strategic,5,Poland,2018-12-25,0.7865,0.999,Active
+11,Argon Corp,SUP-0011,Approved,6,China,2023-10-03,0.8564,0.9444,Active
+12,Novus Materials,SUP-0012,Approved,1,United States,2019-12-01,0.7438,0.9169,Active
+13,Highland Group,SUP-0013,Approved,6,China,2019-05-23,0.9556,0.9239,Active
+14,Anchor Manufacturing,SUP-0014,Transactional,9,Mexico,2021-08-28,0.6465,0.9289,Suspended
+15,Anchor Partners,SUP-0015,Preferred,7,India,2022-10-10,0.8846,0.9421,Active
+16,Keystone Materials,SUP-0016,Preferred,1,United States,2018-12-15,0.8359,0.9854,Under Review
+17,Global Partners,SUP-0017,Approved,10,Brazil,2021-05-15,0.7667,0.9643,Active
+18,Apex Manufacturing,SUP-0018,Transactional,1,United States,2020-12-07,0.8342,0.8312,Active
+19,Precision Industries,SUP-0019,Transactional,7,India,2022-04-21,0.8651,0.8808,Under Review
+20,Vertex Manufacturing,SUP-0020,Approved,7,India,2019-07-22,0.7882,0.9372,Active
+21,Vertice Solutions,SUP-0021,Preferred,2,Canada,2023-08-05,0.9181,0.9639,Active
+22,Harbor Inc.,SUP-0022,Approved,7,India,2018-11-03,0.8121,0.9294,Active
+23,Reliable Solutions,SUP-0023,Approved,2,Canada,2020-04-04,0.7306,0.9358,Active
+24,Momentum Supply Co.,SUP-0024,Approved,1,United States,2021-07-05,0.801,0.9881,Active
+25,Harbor Corp,SUP-0025,Preferred,7,India,2020-02-03,0.8821,0.9586,Under Review
+26,Zenith Manufacturing,SUP-0026,Transactional,6,China,2022-03-23,0.7323,0.8694,Active
+27,Pinnacle Corp,SUP-0027,Approved,5,Poland,2024-10-07,0.7293,0.9361,Under Review
+28,Legacy Supply Co.,SUP-0028,Transactional,10,Brazil,2022-07-14,0.8335,0.9009,Active
+29,Pinnacle Industries,SUP-0029,Approved,9,Mexico,2022-06-09,0.915,0.9303,Active
+30,Nordic Corp,SUP-0030,Approved,2,Canada,2024-03-17,0.8132,0.8958,Under Review
+31,Precision Group,SUP-0031,Strategic,8,Vietnam,2019-07-24,0.8286,0.9566,Active
+32,Momentum Materials,SUP-0032,Transactional,9,Mexico,2019-09-14,0.77,0.8784,Active
+33,Crest Ltd.,SUP-0033,Strategic,1,United States,2022-11-14,0.7954,0.8904,Active
+34,Prime Ltd.,SUP-0034,Approved,4,United Kingdom,2021-01-11,0.704,0.9166,Active
+35,Ironclad Inc.,SUP-0035,Approved,9,Mexico,2024-05-25,0.9708,0.9391,Suspended
+36,Compass Manufacturing,SUP-0036,Preferred,8,Vietnam,2024-04-28,0.8456,0.9195,Active
+37,Highland Corp,SUP-0037,Preferred,8,Vietnam,2023-10-12,0.99,0.9101,Active
+38,Fusion Supply Co.,SUP-0038,Transactional,1,United States,2018-12-28,0.99,0.9334,Active
+39,Meridian Ltd.,SUP-0039,Approved,5,Poland,2022-12-12,0.9269,0.8805,Active
+40,Beacon Supply Co.,SUP-0040,Transactional,7,India,2024-02-28,0.8225,0.9051,Active
+41,Legacy Manufacturing,SUP-0041,Preferred,3,Germany,2024-06-08,0.9286,0.9023,Suspended
+42,Momentum Industries,SUP-0042,Transactional,3,Germany,2023-12-16,0.657,0.8812,Active
+43,Horizon Ltd.,SUP-0043,Approved,2,Canada,2019-07-23,0.7499,0.8763,Active
+44,Titan Ltd.,SUP-0044,Strategic,2,Canada,2024-05-06,0.9314,0.965,Active
+45,Orbit Industries,SUP-0045,Approved,10,Brazil,2020-08-16,0.8617,0.9567,Active
+46,Beacon Group,SUP-0046,Strategic,4,United Kingdom,2020-04-05,0.926,0.999,Suspended
+47,Highland Solutions,SUP-0047,Approved,3,Germany,2019-07-19,0.7596,0.8757,Active
+48,Fusion Group,SUP-0048,Transactional,9,Mexico,2022-07-25,0.8232,0.9225,Active
+49,Optima Solutions,SUP-0049,Approved,8,Vietnam,2024-04-27,0.7758,0.9298,Suspended
+50,Everest Industries,SUP-0050,Transactional,8,Vietnam,2024-06-10,0.6844,0.8962,Under Review
+51,Crest Solutions,SUP-0051,Approved,3,Germany,2019-01-18,0.7786,0.9258,Active
+52,Summit Solutions,SUP-0052,Approved,6,China,2024-02-08,0.7654,0.999,Active
+53,Pinnacle Partners,SUP-0053,Strategic,8,Vietnam,2024-03-29,0.83,0.9606,Suspended
+54,Precision Ltd.,SUP-0054,Approved,1,United States,2023-08-29,0.647,0.9445,Under Review
+55,Precision Partners,SUP-0055,Transactional,7,India,2024-07-23,0.7015,0.9376,Under Review
+56,Vertex Ltd.,SUP-0056,Approved,4,United Kingdom,2018-08-31,0.7908,0.9795,Under Review
+57,Everest Group,SUP-0057,Approved,2,Canada,2022-09-18,0.8133,0.9623,Suspended
+58,Coastal Corp,SUP-0058,Preferred,6,China,2022-04-30,0.9096,0.9506,Active
+59,Falcon Materials,SUP-0059,Transactional,9,Mexico,2021-08-22,0.8943,0.9327,Active
+60,Everest Manufacturing,SUP-0060,Approved,2,Canada,2024-11-24,0.8475,0.9785,Active

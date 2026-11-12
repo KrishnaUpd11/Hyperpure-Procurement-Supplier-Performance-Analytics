@@ -1,0 +1,11 @@
+RegionKey,RegionName,Country,CurrencyCode
+1,North America,United States,USD
+2,North America,Canada,CAD
+3,Europe,Germany,EUR
+4,Europe,United Kingdom,GBP
+5,Europe,Poland,EUR
+6,Asia Pacific,China,USD
+7,Asia Pacific,India,USD
+8,Asia Pacific,Vietnam,USD
+9,Latin America,Mexico,USD
+10,Latin America,Brazil,USD

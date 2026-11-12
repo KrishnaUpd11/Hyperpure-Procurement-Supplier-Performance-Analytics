@@ -1,0 +1,16 @@
+PlantKey,PlantName,RegionKey,PlantCode
+1,Plant East - Columbus,1,PLT-001
+2,Plant West - Sacramento,1,PLT-002
+3,Plant Central - Dallas,1,PLT-003
+4,Plant Toronto,2,PLT-004
+5,Werk Stuttgart,3,PLT-005
+6,Werk Hamburg,3,PLT-006
+7,Site Manchester,4,PLT-007
+8,Zaklad Wroclaw,5,PLT-008
+9,Plant Shenzhen,6,PLT-009
+10,Plant Suzhou,6,PLT-010
+11,Plant Chennai,7,PLT-011
+12,Plant Pune,7,PLT-012
+13,Plant Hanoi,8,PLT-013
+14,Planta Monterrey,9,PLT-014
+15,Planta Sao Paulo,10,PLT-015
